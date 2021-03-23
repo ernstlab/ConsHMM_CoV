@@ -1,4 +1,4 @@
-# ConsHMM_CoV
+## Single-nucleotide conservation state annotation of the SARS-CoV-2 genome
 
 We applied [ConsHMM](https://github.com/ernstlab/ConsHMM) to sequence alignments of coronaviruses (CoV) and learned annotations for the SARS-CoV-2 genome that capture underlying alignment patterns among CoV and their relationship to observed SARS-CoV-2 mutations.
 
