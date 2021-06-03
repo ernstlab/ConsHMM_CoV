@@ -9,3 +9,6 @@ Files in this repository or the following public URL can be used to view the ann
   - [Based on all conservation states](https://public.hoffman2.idre.ucla.edu/ernst/R0RG6/wuhCor1.mutDepletionConsHMM.bed)
   - [Based on states learned from Sarbecovirus alignment](https://public.hoffman2.idre.ucla.edu/ernst/R0RG6/wuhCor1.mutDepletionSarbecovirusConsHMM.bed)
   - [Based on states learend from vertebrate CoV alignment](https://public.hoffman2.idre.ucla.edu/ernst/R0RG6/wuhCor1.mutDepletionVertebrateCoVConsHMM.bed)
+
+## Reference
+Kwon S.B., Ernst J. Single-nucleotide conservation state annotation of the SARS-CoV-2 genome. *Communications Biology*, 4:698, 2021. ([link](https://www.nature.com/articles/s42003-021-02231-w))
